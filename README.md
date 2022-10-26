@@ -1,9 +1,5 @@
 # tp-holamundo-2022-2022-grupo-10
 
-
-[![build](https://github.com/algo2-unsam/tp-holamundo-2022-2022-grupo-10/actions/workflows/build.yml/badge.svg)](https://github.com/algo2-unsam/tp-holamundo-2022-2022-grupo-10/actions/workflows/build.yml)
-[![codecov](https://codecov.io/gh/algo2-unsam/tp-holamundo-2022-2022-grupo-10/branch/main/graph/badge.svg?token=AqrgZwRk7V)](https://codecov.io/gh/algo2-unsam/tp-holamundo-2022-2022-grupo-10)
-
 Entrega 1
 
 En esta iteración, agregaremos nuevas entidades y funcionalidades necesarias para cumplir con los requerimientos que nos dieron.
