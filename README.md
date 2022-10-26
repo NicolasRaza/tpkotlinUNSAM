@@ -83,14 +83,6 @@ Se pide:
     a)Armar el juego de datos necesario para realizar las pruebas
     b)Codificar los tests unitarios 
 
-3 La entrega debe desarrollarse en un branch develop, que será mergeado en master, a través de un pull request, luego de ser aprobado por el tutor del grupo. 
-
-4 Integrar el proyecto con Github Action.
-
-5 Agregar al README los badges del build y codecov.
-
-6 Generar un tag llamado “entrega-1” en el repositorio.
-
 
 
 
